@@ -9,9 +9,8 @@ Inspired and based on:
 
 ## Installing
 
-This Theme is not yet in the Visual Studio Marketplace!<br>
-If you want to use it already anyways, just go to your `<user home>/.vscode/extensions` folder and git clone the repo or download it and paste it in there.<br>
-Restart VS Code and select 'The Best Theme'.
+Go to Extensions and search for 'The Best Theme' and install it.<br>
+That's it!
 
 
 ## Issues

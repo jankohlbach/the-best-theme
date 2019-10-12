@@ -2,7 +2,9 @@
     "name": "the-best-theme",
     "displayName": "The Best Theme",
     "description": "The one and only theme for VS Code",
-    "version": "0.0.1",
+    "publisher": "kohlbachjan",
+    "repository": "https://github.com/jankohlbach/The-Best-Theme",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.36.0"
     },
