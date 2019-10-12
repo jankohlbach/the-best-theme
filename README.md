@@ -10,7 +10,8 @@ Inspired and based on:
 ## Installing
 
 Go to Extensions and search for 'The Best Theme' and install it.<br>
-That's it!
+That's it!<br>
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kohlbachjan.the-best-theme)
 
 
 ## Issues
