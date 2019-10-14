@@ -5,6 +5,15 @@ All notable changes to the "the-best-theme" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 
+## [1.0.3] - 2019-10-14
+### Added
+- add images of sample files
+
+### Changed
+
+### Removed
+
+
 ## [1.0.2] - 2019-10-13
 ### Added
 

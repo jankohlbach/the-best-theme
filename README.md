@@ -6,6 +6,15 @@ Inspired and based on:
 - [VS Code Material Theme](https://github.com/material-theme/vsc-material-theme)
 - [Atom One Dark Theme](https://github.com/akamud/vscode-theme-onedark)
 
+### HTML File example
+![Example html file](html.png)
+
+### CSS File example
+![Example css file](css.png)
+
+### JS File example
+![Example js file](js.png)
+
 
 ## Installing
 
