@@ -21,7 +21,7 @@
 
 - #1d242a : main editor background
 - #212930 : 2% lighter -> sidebar background
-- #252e36 : 4% lighter -> activitybar background
+- #252e36 : 4% lighter -> activitybar background, titlebar background
 - #29333c : 6% lighter -> sidebar indent guides
 - #1b2127 : 1% darker -> sidebar items background, input
 - #14191e : 2% darker -> sidebar items background, dropdown
