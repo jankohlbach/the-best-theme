@@ -5,6 +5,15 @@ All notable changes to the "the-best-theme" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 
+## [2.0.0] - 2020-04-10
+### Added
+
+### Changed
+- less blue, darker
+
+### Removed
+
+
 ## [1.0.8] - 2020-04-10
 ### Added
 - add several styles for elements that are now stylable

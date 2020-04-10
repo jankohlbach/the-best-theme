@@ -19,12 +19,12 @@
 
 ## editor (main colors)
 
-- #1d242a : main editor background
-- #212930 : 2% lighter -> sidebar background
-- #252e36 : 4% lighter -> activitybar background, titlebar background
-- #29333c : 6% lighter -> sidebar indent guides
-- #1b2127 : 1% darker -> sidebar items background, input
-- #14191e : 2% darker -> sidebar items background, dropdown
+- #141a1f : main editor background
+- #151c21 : 2% lighter -> sidebar background
+- #171e24 : 4% lighter -> activitybar background, titlebar background
+- #273541 : 6% lighter -> sidebar indent guides
+- #101519 : 1% darker -> sidebar items background, input
+- #0d1114 : 2% darker -> sidebar items background, dropdown
 
 
 ## accent colors
