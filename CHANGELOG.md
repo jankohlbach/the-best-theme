@@ -5,6 +5,24 @@ All notable changes to the "the-best-theme" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 
+## [1.0.8] - 2020-04-10
+### Added
+- add several styles for elements that are now stylable
+- add new styles and color definitions
+- add styles for window border
+- add more styles for minimap
+- add styles for search editor
+- add styles for symbol highlighting
+- add styles for menu
+- add styles for notifications
+- add styles for extensions
+
+### Changed
+- change hover color for status bar items, now opacity instead of solid color so it works also in debug mode for example
+
+### Removed
+
+
 ## [1.0.7] - 2020-04-10
 ### Added
 
