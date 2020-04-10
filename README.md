@@ -6,6 +6,11 @@ Inspired and based on:
 - [VS Code Material Theme](https://github.com/material-theme/vsc-material-theme)
 - [Atom One Dark Theme](https://github.com/akamud/vscode-theme-onedark)
 
+If you want to support me and my work:<br><br>
+<a href="https://www.buymeacoffee.com/jankohlbach" target="_blank">
+  <img src="./buymeacoffee.png" alt="Buy Me A Coffee" >
+</a>
+
 ### HTML File example
 ![Example html file](html.png)
 

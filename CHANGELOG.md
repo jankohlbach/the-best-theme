@@ -5,6 +5,33 @@ All notable changes to the "the-best-theme" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 
+## [1.0.7] - 2020-04-10
+### Added
+
+### Changed
+- still trying to show the buymeacoffee.com/jankohlbach button in a good way ...
+
+### Removed
+
+
+## [1.0.6] - 2020-04-10
+### Added
+
+### Changed
+- try to show the buymeacoffee.com/jankohlbach button
+
+### Removed
+
+
+## [1.0.5] - 2020-04-10
+### Added
+- add buymeacoffee.com/jankohlbach button in readme for support
+
+### Changed
+
+### Removed
+
+
 ## [1.0.4] - 2019-11-10
 ### Added
 - add new styles and color definitions
