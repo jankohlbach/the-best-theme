@@ -58,9 +58,9 @@
 
     // Scrollbar control
 		"scrollbar.shadow": "#11111166",
-		"scrollbarSlider.activeBackground": "#0d1114aa",
-		"scrollbarSlider.background": "#0d111466",
-		"scrollbarSlider.hoverBackground": "#0d1114aa",
+		"scrollbarSlider.activeBackground": "#273541aa",
+		"scrollbarSlider.background": "#27354166",
+		"scrollbarSlider.hoverBackground": "#273541aa",
 
     // Badge
 		"badge.foreground": "#111111",
@@ -72,11 +72,11 @@
     // List and trees
 		"list.activeSelectionBackground": "#101519",
 		"list.activeSelectionForeground": "#cccccc",
-		"list.dropBackground": "#141a1f",
+		"list.dropBackground": "#0d1114",
 		"list.focusBackground": "#171e24",
 		"list.focusForeground": "#cccccc",
 		"list.highlightForeground": "#5599dd",
-		"list.hoverBackground": "#141a1f",
+		"list.hoverBackground": "#0d1114",
 		"list.hoverForeground": "#cccccc",
 		"list.inactiveSelectionBackground": "#101519",
 		"list.inactiveSelectionForeground": "#ccccccaa",
@@ -108,7 +108,7 @@
 		"sideBar.background": "#151c21",
 		"sideBar.foreground": "#cccccc",
 		"sideBar.border": "#0000",
-		"sideBar.dropBackground": "#101519",
+		"sideBar.dropBackground": "#0d1114",
 		"sideBarTitle.foreground": "#cccccc",
 		"sideBarSectionHeader.background": "#171e24",
 		"sideBarSectionHeader.foreground": "#cccccc",
@@ -129,7 +129,7 @@
 
     // Editor Groups & Tabs
 		"editorGroup.border": "#273541",
-    "editorGroup.dropBackground": "#151c21aa",
+    "editorGroup.dropBackground": "#101519aa",
     "editorGroupHeader.noTabsBackground": "#0d1114",
 		"editorGroupHeader.tabsBackground": "#171e24",
 		"editorGroupHeader.tabsBorder": "#0000",
@@ -160,8 +160,8 @@
     // Editor colors
 		"editor.background": "#141a1f",
 		"editor.foreground": "#cccccc",
-		"editorLineNumber.foreground": "#273541aa",
-    "editorLineNumber.activeForeground": "#273541",
+		"editorLineNumber.foreground": "#66779966",
+    "editorLineNumber.activeForeground": "#5599ddaa",
 		"editorCursor.background": "#5599ddaa",
 		"editorCursor.foreground": "#5599dd",
 

@@ -5,6 +5,15 @@ All notable changes to the "the-best-theme" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 
+## [2.0.1] - 2020-04-25
+### Added
+
+### Changed
+- optimize contrast for line-numbers, scrollbar and drop-backgrounds
+
+### Removed
+
+
 ## [2.0.0] - 2020-04-10
 ### Added
 
