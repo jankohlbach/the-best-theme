@@ -4,7 +4,7 @@
     "description": "The one and only theme for VS Code",
     "publisher": "kohlbachjan",
     "repository": "https://github.com/jankohlbach/The-Best-Theme",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "engines": {
         "vscode": "^1.36.0"
     },
