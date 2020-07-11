@@ -5,6 +5,15 @@ All notable changes to the "the-best-theme" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 
+## [2.0.3] - 2020-07-11
+### Added
+
+### Changed
+- better contrast for hovered and selected files in tree
+
+### Removed
+
+
 ## [2.0.2] - 2020-05-02
 ### Added
 

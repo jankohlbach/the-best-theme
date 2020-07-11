@@ -70,15 +70,15 @@
 		"progressBar.background": "#5599dd",
 
     // List and trees
-		"list.activeSelectionBackground": "#101519",
+		"list.activeSelectionBackground": "#5599dd22",
 		"list.activeSelectionForeground": "#cccccc",
 		"list.dropBackground": "#0d1114",
 		"list.focusBackground": "#171e24",
 		"list.focusForeground": "#cccccc",
 		"list.highlightForeground": "#5599dd",
-		"list.hoverBackground": "#0d1114",
+		"list.hoverBackground": "#5599dd44",
 		"list.hoverForeground": "#cccccc",
-		"list.inactiveSelectionBackground": "#101519",
+		"list.inactiveSelectionBackground": "#5599dd22",
 		"list.inactiveSelectionForeground": "#ccccccaa",
     "list.inactiveFocusBackground": "#101519",
 		"list.invalidItemForeground": "#ff4433",
