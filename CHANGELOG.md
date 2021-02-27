@@ -6,6 +6,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.0.5] - 2021-02-27
+### Added
+
+### Changed
+- further improve the contrast for the minimap
+
+### Removed
+- remove not allowed property "activityBar.dropBackground"
+- remove not allowed property "panel.dropBackground"
+
+
 ## [2.0.4] - 2021-02-27
 ### Added
 
