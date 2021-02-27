@@ -94,7 +94,6 @@
 
     // Activity Bar
 		"activityBar.background": "#171e24",
-		"activityBar.dropBackground": "#151c21",
 		"activityBar.foreground": "#cccccc",
 		"activityBar.inactiveForeground": "#cccccc66",
 		"activityBar.border": "#0000",
@@ -297,7 +296,6 @@
     // Panel colors
     "panel.background": "#101519",
     "panel.border": "#273541",
-    "panel.dropBackground": "#141a1f",
     "panelTitle.activeBorder": "#5599dd",
     "panelTitle.activeForeground": "#cccccc",
     "panelTitle.inactiveForeground": "#ccccccaa",
