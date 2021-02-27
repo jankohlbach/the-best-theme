@@ -5,6 +5,17 @@ All notable changes to the "the-best-theme" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 
+
+## [2.0.4] - 2021-02-27
+### Added
+
+### Changed
+- improve contrast for active section in minimap (thanks to [Jeff](https://github.com/jgodfrey) & [Dustin](https://github.com/duongdev))
+- also thanks to [this dev.to article](https://dev.to/ratuloss/my-productivity-setup-vs-code-4o9d) which boosted the install counts this week, I'm always open for improvements
+
+### Removed
+
+
 ## [2.0.3] - 2020-07-11
 ### Added
 

@@ -120,7 +120,7 @@
     "minimap.errorHighlight": "#ff4433aa",
     "minimap.warningHighlight": "#ff9955aa",
     "minimap.background": "#151c21",
-    "minimapSlider.background": "#141a1f66",
+    "minimapSlider.background": "#27354166",
     "minimapSlider.hoverBackground": "#141a1faa",
     "minimapSlider.activeBackground": "#141a1faa",
     "minimapGutter.addedBackground": "#00aa55",
