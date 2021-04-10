@@ -6,6 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.0.6] - 2021-04-10
+### Added
+
+### Changed
+- improve contrast of focused files in the tree/list (thanks to [emilime](https://github.com/emilime))
+
+### Removed
+
+
 ## [2.0.5] - 2021-02-27
 ### Added
 
