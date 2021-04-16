@@ -238,7 +238,7 @@
     "problemsInfoIcon.foreground": "#5599dd",
 
 		"editorUnnecessaryCode.border": "#0000",
-		"editorUnnecessaryCode.opacity": "#ff4433",
+		"editorUnnecessaryCode.opacity": "#000a",
 
 		"editorGutter.background": "#0000",
 		"editorGutter.modifiedBackground": "#ff9955",

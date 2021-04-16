@@ -6,6 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.0.7] - 2021-04-16
+### Added
+
+### Changed
+- add opacity for unused vars (thanks to [Alex](https://github.com/alyr1481))
+
+### Removed
+
+
 ## [2.0.6] - 2021-04-10
 ### Added
 
