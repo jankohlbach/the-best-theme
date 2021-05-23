@@ -6,6 +6,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.0.8] - 2021-05-23
+### Added
+- add badges in Readme, thanks for over 25k downloads and 10k installs 🎉
+
+### Changed
+- Readme optimizations
+
+### Removed
+
+
 ## [2.0.7] - 2021-04-16
 ### Added
 

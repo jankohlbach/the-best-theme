@@ -1,27 +1,36 @@
 # The Best Theme
 
-## The one and only VS Code Theme
+![version](https://img.shields.io/visual-studio-marketplace/v/kohlbachjan.the-best-theme)
+![downloads](https://img.shields.io/visual-studio-marketplace/d/kohlbachjan.the-best-theme)
+![installs](https://img.shields.io/visual-studio-marketplace/i/kohlbachjan.the-best-theme)
+![rating](https://img.shields.io/visual-studio-marketplace/stars/kohlbachjan.the-best-theme)
+![released](https://img.shields.io/visual-studio-marketplace/release-date/kohlbachjan.the-best-theme)
+![updated](https://img.shields.io/visual-studio-marketplace/last-updated/kohlbachjan.the-best-theme)
 
----
+<br>
+
+## The one and only VS Code Theme
 
 Inspired and based on:
 - [VS Code Material Theme](https://github.com/material-theme/vsc-material-theme)
 - [Atom One Dark Theme](https://github.com/akamud/vscode-theme-onedark)
 
----
+<br>
 
 If you want to support me and my work:<br><br>
 <a href="https://www.buymeacoffee.com/jankohlbach" target="_blank">
   <img src="./buymeacoffee.png" alt="Buy Me A Coffee" >
 </a>
 
----
-
 You can find me here:
 - Web: [jankohlbach.com](https://jankohlbach.com)
 - Social: @jankohlbach
 
+<br>
+
 ---
+
+<br>
 
 ### HTML File example
 ![Example html file](html.png)
@@ -32,7 +41,11 @@ You can find me here:
 ### JS File example
 ![Example js file](js.png)
 
+<br>
+
 ---
+
+<br>
 
 ## Installing
 
