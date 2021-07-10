@@ -6,6 +6,19 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.1.0] - 2021-07-10
+### Added
+- various new color codes for different elements
+- thanks for over 32k downloads and 12k installs 🎉
+
+### Changed
+- change "editorSuggestWidget.foreground" and "editorSuggestWidget.highlightForeground" because of new "editorSuggestWidget.selectedForeground" and "editorSuggestWidget.selectedIconForeground"
+- change "notificationsInfoIcon.foreground" from green to blue as it is an info icon
+
+### Removed
+- remove not allowed property "imagePreview.border"
+
+
 ## [2.0.8] - 2021-05-23
 ### Added
 - add badges in Readme, thanks for over 25k downloads and 10k installs 🎉
