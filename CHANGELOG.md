@@ -6,6 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.1.1] - 2021-07-10
+### Added
+
+### Changed
+- add opacity for unused vars (thanks to [Hosein](https://github.com/hkh12))
+
+### Removed
+
+
 ## [2.1.0] - 2021-07-10
 ### Added
 - various new color codes for different elements
