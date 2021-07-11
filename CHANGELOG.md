@@ -6,6 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.1.3] - 2021-07-11
+### Added
+
+### Changed
+- further improve contrast for status bar in debug mode (thanks to [Aravind](https://github.com/aravindvnair99))
+
+### Removed
+
+
 ## [2.1.2] - 2021-07-11
 ### Added
 
@@ -19,7 +28,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 ### Changed
-- add opacity for unused vars (thanks to [Hosein](https://github.com/hkh12))
+- add more contrast for status bar in debug mode (thanks to [Hosein](https://github.com/hkh12))
 
 ### Removed
 
