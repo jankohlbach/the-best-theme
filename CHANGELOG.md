@@ -6,6 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.1.2] - 2021-07-11
+### Added
+
+### Changed
+- hover status of secondary button
+
+### Removed
+
+
 ## [2.1.1] - 2021-07-10
 ### Added
 

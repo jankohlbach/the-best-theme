@@ -38,7 +38,7 @@
 		"button.hoverBackground": "#5599ddaa",
     "button.secondaryForeground": "#111111",
     "button.secondaryBackground": "#667799",
-    "button.secondaryHoverBackground": "#667799",
+    "button.secondaryHoverBackground": "#667799aa",
     "checkbox.background": "#0d1114",
     "checkbox.foreground": "#5599dd",
     "checkbox.border": "#0000",
