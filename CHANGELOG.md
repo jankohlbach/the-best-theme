@@ -6,6 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.1.4] - 2022-05-20
+### Added
+- add correct colors for inlayhints (thanks to [Gers](https://github.com/Gers2017))
+
+### Changed
+
+### Removed
+
+
 ## [2.1.3] - 2021-07-11
 ### Added
 
