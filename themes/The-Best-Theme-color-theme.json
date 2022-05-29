@@ -226,7 +226,7 @@
     "editorInlayHint.background": "#5599dd11",
     "editorInlayHint.foreground": "#5599ddaa",
 		"editorRuler.foreground": "#5599dd22",
-    "editor.linkedEditingBackground": "#f0d",
+    "editor.linkedEditingBackground": "#151c2111",
 
 		"editorCodeLens.foreground": "#cccccc66",
 
