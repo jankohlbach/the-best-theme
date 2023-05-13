@@ -6,6 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.1.6] - 2023-05-13
+### Added
+- add colors for github copilot suggestions, see [#7](https://github.com/jankohlbach/the-best-theme/issues/9)
+
+### Changed
+
+### Removed
+
+
 ## [2.1.5] - 2022-05-29
 ### Added
 - add correct colors for native linked editing feature, see [#7](https://github.com/jankohlbach/the-best-theme/issues/7) (thanks again to [Gers](https://github.com/Gers2017))

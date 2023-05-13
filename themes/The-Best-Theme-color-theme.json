@@ -303,8 +303,9 @@
     "editorHoverWidget.background": "#0d1114",
     "editorHoverWidget.border": "#151c21",
     "editorHoverWidget.statusBarBackground": "#101519",
-    "editorGhostText.border": "#f0d",
-    "editorGhostText.foreground": "#f0d",
+    "editorGhostText.border": "#000000aa",
+    "editorGhostText.background": "#0d1114",
+    "editorGhostText.foreground": "#00ffaa",
     "debugExceptionWidget.background": "#f0d",
     "debugExceptionWidget.border": "#f0d",
 
