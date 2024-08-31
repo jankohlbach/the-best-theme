@@ -306,8 +306,8 @@
     "editorGhostText.border": "#000000aa",
     "editorGhostText.background": "#0d1114",
     "editorGhostText.foreground": "#00ffaa",
-    "debugExceptionWidget.background": "#f0d",
-    "debugExceptionWidget.border": "#f0d",
+    "debugExceptionWidget.background": "#0d1114",
+    "debugExceptionWidget.border": "#ff4433",
 
     "editorMarkerNavigation.background": "#0d1114",
     "editorMarkerNavigationError.background": "#ff4433",

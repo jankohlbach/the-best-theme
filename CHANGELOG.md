@@ -6,9 +6,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.1.7] - 2024-08-31
+### Added
+
+### Changed
+- fix background-color and border for debug exception widget, see [#11](https://github.com/jankohlbach/the-best-theme/issues/11) (thanks to [chickendrop89](https://github.com/chickendrop89))
+
+### Removed
+
+
 ## [2.1.6] - 2023-05-13
 ### Added
-- add colors for github copilot suggestions, see [#7](https://github.com/jankohlbach/the-best-theme/issues/9)
+- add colors for github copilot suggestions, see [#9](https://github.com/jankohlbach/the-best-theme/issues/9)
 
 ### Changed
 
