@@ -6,6 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 
 
+## [2.1.8] - 2024-08-31
+### Added
+
+### Changed
+- replace deprecated color tokens and fix warnings
+
+### Removed
+
+
 ## [2.1.7] - 2024-08-31
 ### Added
 

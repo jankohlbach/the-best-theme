@@ -221,8 +221,8 @@
     "editor.symbolHighlightBackground": "#5599dd11",
     "editor.symbolHighlightBorder": "#0000",
 		"editorWhitespace.foreground": "#66779966",
-		"editorIndentGuide.background": "#5599dd11",
-		"editorIndentGuide.activeBackground": "#5599dd33",
+		"editorIndentGuide.background1": "#5599dd11",
+		"editorIndentGuide.activeBackground1": "#5599dd33",
     "editorInlayHint.background": "#5599dd11",
     "editorInlayHint.foreground": "#5599ddaa",
 		"editorRuler.foreground": "#5599dd22",
@@ -240,11 +240,11 @@
 
     "editorOverviewRuler.background": "#101519",
 		"editorOverviewRuler.border": "#273541",
-		"editorOverviewRuler.findMatchForeground": "#5599dd",
-		"editorOverviewRuler.rangeHighlightForeground": "#5599dd",
-		"editorOverviewRuler.selectionHighlightForeground": "#5599dd",
-		"editorOverviewRuler.wordHighlightForeground": "#5599dd",
-		"editorOverviewRuler.wordHighlightStrongForeground": "#5599dd",
+		"editorOverviewRuler.findMatchForeground": "#5599ddaa",
+		"editorOverviewRuler.rangeHighlightForeground": "#5599ddaa",
+		"editorOverviewRuler.selectionHighlightForeground": "#5599ddaa",
+		"editorOverviewRuler.wordHighlightForeground": "#5599ddaa",
+		"editorOverviewRuler.wordHighlightStrongForeground": "#5599ddaa",
 		"editorOverviewRuler.modifiedForeground": "#ff9955",
 		"editorOverviewRuler.addedForeground": "#00aa55",
 		"editorOverviewRuler.deletedForeground": "#ff4433",
@@ -409,7 +409,7 @@
     "extensionButton.prominentHoverBackground": "#5599ddaa",
     "extensionBadge.remoteBackground": "#5599dd",
     "extensionBadge.remoteForeground": "#111111",
-    "extensionIcon.starForeground": "#5599dd"
+    "extensionIcon.starForeground": "#5599ddaa"
 
     // Quick picker colors
 
