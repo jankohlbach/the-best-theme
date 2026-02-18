@@ -1,0 +1,49 @@
+---
+name: Build and Release the extension on GitHub
+
+on:
+  push:
+    tags:
+      - "[0-9]*.[0-9]*.[0-9]*" # e.g. 1.2.3
+
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag to release (e.g. 1.2.3)" 
+        required: true
+        type: string
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Setup node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: ./package-lock.json
+
+      - name: Install npm packages
+        run: npm ci
+
+      - name: Build extension
+        # The current theme has no licence - we need to skip the warning
+        run: npx @vscode/vsce package --skip-license
+
+      - name: Create a GitHub Release
+        # if: ${{ !env.ACT }}   # for testing with act
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_TAG: ${{ inputs.tag || github.ref_name }}
+          RELEASE_NOTE: "[CHANGELOG.md](https://github.com/${{ github.repository }}/blob/main/CHANGELOG.md)"
+        run: |
+          gh release create $RELEASE_TAG \
+            --repo ${{ github.repository }} \
+            --notes $RELEASE_NOTE \
+            ./*.vsix

@@ -8,6 +8,9 @@
     "engines": {
         "vscode": "^1.36.0"
     },
+    "devDependencies": {
+        "@vscode/vsce": "^3.7.1"
+    },
     "categories": [
         "Themes"
     ],
