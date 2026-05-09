@@ -9,7 +9,7 @@
         "vscode": "^1.36.0"
     },
     "devDependencies": {
-        "@vscode/vsce": "^3.7.1"
+        "@vscode/vsce": "^3.9.1"
     },
     "categories": [
         "Themes"
